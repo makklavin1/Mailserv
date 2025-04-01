@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Tue, 01 Oct 2024 14:45:02 +0000
+Source: zimbra-common-core-libs
+Binary: zimbra-common-core-libs
+Architecture: amd64
+Version: 9.0.0.1683869303-1.u20
+Distribution: stable
+Urgency: medium
+Maintainer: Zimbra Packaging Services <build@zimbra.com>
+Changed-By: Zimbra Builder (builder) <build@zimbra>
+Description:
+ zimbra-common-core-libs - Replace zimbra core libs
+Changes:
+ zimbra-common-core-libs (9.0.0.1683869303-1.u20) stable; urgency=medium
+ .
+   * Release - 9.0.0.1683869303
+Checksums-Sha1:
+ bc58590172262acb56518c8bc92c82396d97efbb 5226 zimbra-common-core-libs_9.0.0.1683869303-1.u20_amd64.buildinfo
+ dbd01932d5cc75886bf990bb20f9d97b9adbe7d2 69503240 zimbra-common-core-libs_9.0.0.1683869303-1.u20_amd64.deb
+Checksums-Sha256:
+ 2af7fccb917fc45c65867bdbcaabca61efe937b5a6a837adbda7b5def6e3e805 5226 zimbra-common-core-libs_9.0.0.1683869303-1.u20_amd64.buildinfo
+ 71a3bf7d68e23bfaaed3bfea061c97925ddf7507ab78b1ce0c97d9aea0f10eef 69503240 zimbra-common-core-libs_9.0.0.1683869303-1.u20_amd64.deb
+Files:
+ b3dadea8a77277b07c9d61d45a2dacaf 5226 mail optional zimbra-common-core-libs_9.0.0.1683869303-1.u20_amd64.buildinfo
+ 895447a73a6528435bcede81158c9c51 69503240 mail optional zimbra-common-core-libs_9.0.0.1683869303-1.u20_amd64.deb

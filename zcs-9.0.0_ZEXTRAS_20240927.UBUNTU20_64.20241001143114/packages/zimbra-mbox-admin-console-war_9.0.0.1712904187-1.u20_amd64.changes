@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Tue, 01 Oct 2024 14:43:52 +0000
+Source: zimbra-mbox-admin-console-war
+Binary: zimbra-mbox-admin-console-war
+Architecture: amd64
+Version: 9.0.0.1712904187-1.u20
+Distribution: stable
+Urgency: medium
+Maintainer: Zimbra Packaging Services <build@zimbra.com>
+Changed-By: Zimbra Builder (builder) <build@zimbra>
+Description:
+ zimbra-mbox-admin-console-war - Zimbra Admin Console War
+Changes:
+ zimbra-mbox-admin-console-war (9.0.0.1712904187-1.u20) stable; urgency=medium
+ .
+   * Release - 9.0.0.1712904187
+Checksums-Sha1:
+ 78cbe0dc33b2aa64e4784950bea4dfedd49c39af 5253 zimbra-mbox-admin-console-war_9.0.0.1712904187-1.u20_amd64.buildinfo
+ 6d162baffb63897bc72601d80226a968a8e85f65 9776760 zimbra-mbox-admin-console-war_9.0.0.1712904187-1.u20_amd64.deb
+Checksums-Sha256:
+ b650875de6ac6d27cfc52ca21579212f0d2c7db85892ad18424c495e711e7364 5253 zimbra-mbox-admin-console-war_9.0.0.1712904187-1.u20_amd64.buildinfo
+ 1bfee198f9fbca4d680dc41c0cc1f0adb8b4b403a5e2ecbd098bc9adc43faa11 9776760 zimbra-mbox-admin-console-war_9.0.0.1712904187-1.u20_amd64.deb
+Files:
+ 576243e473f91af57c0ff07e72a9710b 5253 mail optional zimbra-mbox-admin-console-war_9.0.0.1712904187-1.u20_amd64.buildinfo
+ 0815081b23041882387b7feb2e546744 9776760 mail optional zimbra-mbox-admin-console-war_9.0.0.1712904187-1.u20_amd64.deb

@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Tue, 01 Oct 2024 14:39:51 +0000
+Source: zimbra-common-mbox-db
+Binary: zimbra-common-mbox-db
+Architecture: amd64
+Version: 9.0.0.1723727322-1.u20
+Distribution: stable
+Urgency: medium
+Maintainer: Zimbra Packaging Services <build@zimbra.com>
+Changed-By: Zimbra Builder (builder) <build@zimbra>
+Description:
+ zimbra-common-mbox-db - Zimbra Core Mailbox DB Files
+Changes:
+ zimbra-common-mbox-db (9.0.0.1723727322-1.u20) stable; urgency=medium
+ .
+   * Release - 9.0.0.1723727322
+Checksums-Sha1:
+ d8a0478120d84b79cd34f622dbcf6813ffd291f0 5204 zimbra-common-mbox-db_9.0.0.1723727322-1.u20_amd64.buildinfo
+ 341c07262b4ec1caae65a8e0588d479f4735b03e 1464 zimbra-common-mbox-db_9.0.0.1723727322-1.u20_amd64.deb
+Checksums-Sha256:
+ d7bcd5ae5118abc608bb6f26d22693edba9de553ddd5a7b8c55e89529f7092e3 5204 zimbra-common-mbox-db_9.0.0.1723727322-1.u20_amd64.buildinfo
+ f1abddde6df645e33d5daefbd491696e76aeed12576aa50ed6e65cdd336ddb8e 1464 zimbra-common-mbox-db_9.0.0.1723727322-1.u20_amd64.deb
+Files:
+ 5c2a364b9fad4ecea49753672b94f34f 5204 mail optional zimbra-common-mbox-db_9.0.0.1723727322-1.u20_amd64.buildinfo
+ a2952ce75a96f87e0fa429c4f9c28b40 1464 mail optional zimbra-common-mbox-db_9.0.0.1723727322-1.u20_amd64.deb
